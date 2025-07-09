@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello 👋
 
 <!--
 **jonssonjohan/jonssonjohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🖥️ Software Skills: 
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -36,17 +37,20 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonssonjohan&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=jonssonjohan&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jonssonjohan&theme=radical&hide_border=false) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonssonjohan&theme=github-dark-dimmed)](https://git.io/streak-stats)
 -->
 
-```md
-copy this link
-```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonssonjohan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonssonjohan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonssonjohan&theme=github-dark-dimmed)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonssonjohan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonssonjohan&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+
 <br/>
+
+
 
 <div align="center">
   
