@@ -1,5 +1,11 @@
-## Hello 👋
+## Hello, Welcome 👋
 
+Im a industrial PhD at Umeå University. I do some hobby project and different scripts for research project. Im self taught and learning new things as
+i go, so feel free to come with idés for improvements. 
+
+- 🔭 I’m currently working on a image analysis script
+- 🌱 I’m currently learning communication between hardware, image analysis, path management
+  
 <!--
 **jonssonjohan/jonssonjohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🖥️ Software Skills: 
+## 🖥️ Software Skills: 
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -32,7 +38,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# 📊 Stats:
+## 📊 Stats:
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonssonjohan&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=jonssonjohan&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
